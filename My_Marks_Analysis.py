@@ -18,7 +18,10 @@ from array import *
 root=tkinter.Tk()
 root.title('Marks Analysis: Rakesh V USN: 1VE16CS073')
 root.geometry('1366x768')
+
+
 #My marks in sem 3rd, 4th, 5th and 6th sem
+
 result=[[86,72,80,73,74,57,99,99],[92,76,75,67,72,73,45,99],[65,80,61,65,80,89,97,97],[74,77,67,76,80,68,99,95]]
 MeanArr=[]
 MedianArr=[]
